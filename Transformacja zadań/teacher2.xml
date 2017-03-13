@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results xmlns="http://www.mini.pw.edu.pl/projob/teacher2">
+  <Student id="111111">
+    <Name>Adrian</Name>
+    <Surname>Abacki</Surname>
+    <Results>
+      <Task3 description="Stwórz diagram klas" maxPoints="25">21</Task3>
+      <Task4 description="Stwórz diagram stanów" maxPoints="25">13</Task4>
+    </Results>
+  </Student>
+  <Student id="222222">
+    <Name>Bartosz</Name>
+    <Surname>Babacki</Surname>
+    <Results>
+      <Task4 description="Stwórz diagram stanów" maxPoints="25">25</Task4>
+    </Results>
+  </Student>
+  <Student id="333333">
+    <Name>Cyprian</Name>
+    <Surname>Cabacki</Surname>
+    <Results>
+      <Task3 description="Stwórz diagram klas" maxPoints="25">25</Task3>
+    </Results>
+  </Student>
+  <Student id="555555">
+    <Name>Edward</Name>
+    <Surname>Endecki</Surname>
+    <Results>
+      <Task4 description="Stwórz diagram stanów" maxPoints="25">2</Task4>
+    </Results>
+  </Student>
+</Results>

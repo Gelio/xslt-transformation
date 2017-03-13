@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results xmlns="http://www.mini.pw.edu.pl/projob/teacher1">
+  <Task1 description="Zdeserializuj XMLe" maxPoints="25">
+    <Result>
+      <Student id="111111">
+        <Name>Adrian</Name>
+        <Surname>Abacki</Surname>
+      </Student>
+      <Points>10</Points>
+    </Result>
+    <Result>
+      <Student id="444444">
+        <Name>Dariusz</Name>
+        <Surname>Dadacki</Surname>
+      </Student>
+      <Points>11</Points>
+    </Result>
+    <Result>
+      <Student id="333333">
+        <Name>Cyprian</Name>
+        <Surname>Cabacki</Surname>
+      </Student>
+      <Points>12.5</Points>
+    </Result>
+  </Task1>
+  <Task2 description="Transformuj XMLe" maxPoints="25">
+    <Result>
+      <Student id="111111">
+        <Name>Adrian</Name>
+        <Surname>Abacki</Surname>
+      </Student>
+      <Points>23</Points>
+    </Result>
+    <Result>
+      <Student id="222222">
+        <Name>Bartosz</Name>
+        <Surname>Babacki</Surname>
+      </Student>
+      <Points>21</Points>
+    </Result>
+    <Result>
+      <Student id="444444">
+        <Name>Dariusz</Name>
+        <Surname>Dadacki</Surname>
+      </Student>
+      <Points>17</Points>
+    </Result>
+  </Task2>
+</Results>
